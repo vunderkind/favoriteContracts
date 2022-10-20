@@ -18,6 +18,6 @@ Note — this is a very simple implementation — it can, and will, get super te
 
 ### Acknowledgment/appreciation
 1. Thanks to [Web3 Club](https://www.youtube.com/watch?v=fDRQDP2xW7o&ab_channel=Web3Club) for the tutorial that I used for this!
-2. [Fractiona.art](https://fractional.art) for setting the protocol and standard for fractionalizing NFTs.
+2. [Fractional.art](https://fractional.art) for setting the protocol and standard for fractionalizing NFTs.
 
 _If I missed something, please let me know!_
